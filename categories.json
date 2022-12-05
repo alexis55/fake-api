@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "title": "Pottery",
+    "code": "pottery"
+  },
+  {
+    "id": 2,
+    "title": "Puppetry",
+    "code": "puppetry"
+  },
+  {
+    "id": 3,
+    "title": "Soap Making",
+    "code": "soap_making"
+  },
+  {
+    "id": 4,
+    "title": "Cheese Making",
+    "code": "cheese_making"
+  },
+  {
+    "id": 5,
+    "title": "Painting",
+    "code": "painting"
+  },
+  {
+    "id": 6,
+    "title": "Gourd Making",
+    "code": "gourd_making"
+  },
+  {
+    "id": 7,
+    "title": "Icon Painting",
+    "code": "icon_painting"
+  },
+  {
+    "id": 8,
+    "title": "Basket Weaving",
+    "code": "basket_weaving"
+  },
+  {
+    "id": 9,
+    "title": "Grapes Products",
+    "code": "grapes_products"
+  },
+  {
+    "id": 10,
+    "title": "Wine",
+    "code": "wine"
+  },
+  {
+    "id": 11,
+    "title": "Pasta Making",
+    "code": "pasta_making"
+  },
+  {
+    "id": 12,
+    "title": "Cooking classes",
+    "code": "cooking_classes"
+  },
+  {
+    "id": 13,
+    "title": "Tea and Herbs",
+    "code": "tea_herbs"
+  },
+  {
+    "id": 14,
+    "title": "Stone carving",
+    "code": "stone_carving"
+  },
+  {
+    "id": 15,
+    "title": "Silversmith",
+    "code": "silversmith"
+  },
+  {
+    "id": 16,
+    "title": "Εmbroidery",
+    "code": "embroidery"
+  },
+  {
+    "id": 17,
+    "title": "Music Instruments",
+    "code": "music_instruments"
+  },
+  {
+    "id": 18,
+    "title": "Charcuterie",
+    "code": "charcuterie"
+  },
+  {
+    "id": 18,
+    "title": "Traditional Spirits",
+    "code": "traditional_spirits"
+  },
+  {
+    "id": 19,
+    "title": "Bee / Honey",
+    "code": "honey"
+  }
+]
