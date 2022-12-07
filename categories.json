@@ -32,7 +32,7 @@
   {
     "id": 7,
     "title": "Icon Painting",
-    "code": "icon_painting"
+    "code": "painting"
   },
   {
     "id": 8,
@@ -59,7 +59,7 @@
     "title": "Cooking classes",
     "code": "cooking_classes"
   },
-  {
+  {i
     "id": 13,
     "title": "Tea and Herbs",
     "code": "tea_herbs"
