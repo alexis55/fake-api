@@ -2,101 +2,121 @@
   {
     "id": 1,
     "title": "Pottery",
-    "code": "pottery"
+    "code": "pottery",
+    "count":"8"
   },
   {
     "id": 2,
     "title": "Puppetry",
-    "code": "puppetry"
+    "code": "puppetry",
+    "count":"20"
   },
   {
     "id": 3,
     "title": "Soap Making",
-    "code": "soap_making"
+    "code": "soap_making",
+    "count":"11"
   },
   {
     "id": 4,
     "title": "Cheese Making",
-    "code": "cheese_making"
+    "code": "cheese_making",
+    "count":"20"
   },
   {
     "id": 5,
     "title": "Painting",
     "code": "painting"
+    "count":"1"
   },
   {
     "id": 6,
     "title": "Gourd Making",
-    "code": "gourd_making"
+    "code": "gourd_making",
+    "count":"25"
   },
   {
     "id": 7,
     "title": "Icon Painting",
-    "code": "painting"
+    "code": "painting",
+    "count":"2"
   },
   {
     "id": 8,
     "title": "Basket Weaving",
-    "code": "basket_weaving"
+    "code": "basket_weaving",
+    "count":"3"
   },
   {
     "id": 9,
     "title": "Grapes Products",
-    "code": "grapes_products"
+    "code": "grapes_products",
+    "count":"21"
   },
   {
     "id": 10,
     "title": "Wine",
-    "code": "wine"
+    "code": "wine",
+    "count":"14"
   },
   {
     "id": 11,
     "title": "Pasta Making",
-    "code": "pasta_making"
+    "code": "pasta_making",
+    "count":"13"
   },
   {
     "id": 12,
     "title": "Cooking classes",
-    "code": "cooking_classes"
+    "code": "cooking_classes",
+    "count":"24"
   },
   {
     "id": 13,
     "title": "Tea and Herbs",
-    "code": "tea_herbs"
+    "code": "tea_herbs",
+    "count":"15"
   },
   {
     "id": 14,
     "title": "Stone carving",
-    "code": "stone_carving"
+    "code": "stone_carving",
+    "count":"8"
   },
   {
     "id": 15,
     "title": "Silversmith",
-    "code": "silversmith"
+    "code": "silversmith",
+    "count":"22"
   },
   {
     "id": 16,
     "title": "Εmbroidery",
-    "code": "embroidery"
+    "code": "embroidery",
+    "count":"45"
   },
   {
     "id": 17,
     "title": "Music Instruments",
-    "code": "music_instruments"
+    "code": "music_instruments",
+    "count":"16"
   },
   {
     "id": 18,
     "title": "Charcuterie",
-    "code": "charcuterie"
+    "code": "charcuterie",
+    "count":"7"
   },
   {
     "id": 18,
     "title": "Traditional Spirits",
-    "code": "traditional_spirits"
+    "code": "traditional_spirits",
+    "count":"18"
   },
   {
     "id": 19,
     "title": "Bee / Honey",
-    "code": "honey"
+    "code": "honey",
+    "count":"22"
   }
 ]
