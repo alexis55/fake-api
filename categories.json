@@ -4,56 +4,56 @@
     "title": "Pottery",
     "code": "pottery",
     "count": 5,
-    "url": "/images/svg/pottery.svg"
+    "url": "https://s3.eu-central-1.amazonaws.com/cdn.market/svg/pottery.svg"
   },
   {
     "id": 2,
     "title": "Puppetry",
     "code": "puppetry",
     "count": 15,
-    "url": "/images/svg/puppetry.svg"
+    "url": "https://s3.eu-central-1.amazonaws.com/cdn.market/svg/puppetry.svg"
   },
   {
     "id": 3,
     "title": "Soap Making",
     "code": "soap_making",
     "count": 22,
-    "url": "/images/svg/soap.svg"
+    "url": "https://s3.eu-central-1.amazonaws.com/cdn.market/svg/soap.svg"
   },
   {
     "id": 4,
     "title": "Cheese Making",
     "code": "cheese_making",
     "count": 14,
-    "url": "/images/svg/006-cheese.svg"
+    "url": "https://s3.eu-central-1.amazonaws.com/cdn.market/svg/006-cheese.svg"
   },
   {
     "id": 5,
     "title": "Painting",
     "code": "painting",
     "count": 6,
-    "url": "/images/svg/002-paint-palette.svg"
+    "url": "https://s3.eu-central-1.amazonaws.com/cdn.market/svg/002-paint-palette.svg"
   },
   {
     "id": 6,
     "title": "Gourd Making",
     "code": "gourd_making",
     "count": 12,
-    "url": "/images/svg/011-cooking.svg"
+    "url": "https://s3.eu-central-1.amazonaws.com/cdn.market/svg/011-cooking.svg"
   },
   {
     "id": 7,
     "title": "Icon Painting",
     "code": "icon_painting",
     "count": 1,
-    "url": "/images/svg/002-paint-palette.svg"
+    "url": "https://s3.eu-central-1.amazonaws.com/cdn.market/svg/002-paint-palette.svg"
   },
   {
     "id": 8,
     "title": "Basket Weaving",
     "code": "basket_weaving",
     "count": 9,
-    "url": "/images/svg/008-basket.svg"
+    "url": "https://s3.eu-central-1.amazonaws.com/cdn.market/svg/008-basket.svg"
   },
   {
     "id": 9,
